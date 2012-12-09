@@ -8,7 +8,8 @@ tagline:
 That's right. There's more. Remember when I asked you if I could take you shopping in
 Utah? We'll here's what I had in mind:
 
-![Diamond Earings](diamond_earings.jpg)
+![Diamond Earrings](diamond_earrings.jpg)
+
 ![Diamond Necklace](diamond_necklaces.jpg)
 
 I'm not sure what exactly to get, but I love the sparkle of diamonds, especially on you!

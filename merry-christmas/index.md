@@ -28,19 +28,19 @@ You could:
  * put up a photo album
  * set up a "start page" - this can be the page that shows up when you start your web browser and has a link to all the sites you regularly visit
  * setup a "personal landing page", almost like an online business card. Basically this has your name, a cool pictures, a links to things like your Twitter and your Facebook. Some examples
-   * <!-- Flavors.me --><http://www.daniel-moreira.com/>
+   * <http://www.daniel-moreira.com/> <!-- Flavors.me -->
    * <http://rebeccaweeks.com/>
    * <http://apantsiop.me/>
    * <http://www.hellokates.com/>
    * <http://lindsyhalleckson.com/>
    * <http://moearora.me/>
-   * <!-- About.me --><http://about.me/sarahkunst>
+   * <http://about.me/sarahkunst> <!-- About.me -->
    * <http://about.me/monsieurgrahams>
    * <http://about.me/davidquiring>
    * <http://about.me/jonosapien>
    * <http://about.me/rob>
    * <http://about.me/xgm>
-   * <!-- http://lifehacker.com/5636983/how-to-make-and-host-your-own-custom-personal-landing-page --><http://toasterdog.com/personalpage/>
+   * <http://toasterdog.com/personalpage/> <!-- http://lifehacker.com/5636983/how-to-make-and-host-your-own-custom-personal-landing-page -->
  * what ever else you can dream of!
  
 But wait, [there's more](http://minchin.ca/marcy/theres-more)!
