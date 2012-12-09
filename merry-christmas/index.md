@@ -24,23 +24,23 @@ You could:
  * post a professional resume here
  * set up a mail account (like marcy@marcyminchin.com)
  * put your blog here, or on a subdomain (like blog.marcyminchin.com)
- * setup a forward to different online services. For example, have <facebook.marcyminchin.com> forward to <http://www.facebook.com/ marcy.andersonminchin>. You could do the same with YouTube, Twitter, etc.
+ * setup a forward to different online services. For example, have facebook.marcyminchin.com forward to http://www.facebook.com/marcy.andersonminchin. You could do the same with YouTube, Twitter, etc.
  * put up a photo album
  * set up a "start page" - this can be the page that shows up when you start your web browser and has a link to all the sites you regularly visit
  * setup a "personal landing page", almost like an online business card. Basically this has your name, a cool pictures, a links to things like your Twitter and your Facebook. Some examples
-      * <!-- Flavors.me --><http://www.daniel-moreira.com/>
-	  * <http://rebeccaweeks.com/>
-	  * <http://apantsiop.me/>
-	  * <http://www.hellokates.com/>
-	  * <http://lindsyhalleckson.com/>
-	  * <http://moearora.me/>
-	  * <!-- About.me --><http://about.me/sarahkunst>
-	  * <http://about.me/monsieurgrahams>
-	  * <http://about.me/davidquiring>
-	  * <http://about.me/jonosapien>
-	  * <http://about.me/rob>
-	  * <http://about.me/xgm>
-	  * <!-- http://lifehacker.com/5636983/how-to-make-and-host-your-own-custom-personal-landing-page --><http://toasterdog.com/personalpage/>
+   * <!-- Flavors.me --><http://www.daniel-moreira.com/>
+   * <http://rebeccaweeks.com/>
+   * <http://apantsiop.me/>
+   * <http://www.hellokates.com/>
+   * <http://lindsyhalleckson.com/>
+   * <http://moearora.me/>
+   * <!-- About.me --><http://about.me/sarahkunst>
+   * <http://about.me/monsieurgrahams>
+   * <http://about.me/davidquiring>
+   * <http://about.me/jonosapien>
+   * <http://about.me/rob>
+   * <http://about.me/xgm>
+   * <!-- http://lifehacker.com/5636983/how-to-make-and-host-your-own-custom-personal-landing-page --><http://toasterdog.com/personalpage/>
  * what ever else you can dream of!
  
 But wait, [there's more](http://minchin.ca/marcy/theres-more)!
