@@ -2,9 +2,8 @@
 layout: page
 title: About
 tagline:
+group: nav
 ---
 {% include JB/setup %}
-
-# Marcy Minchin
 
 This is all about Marcy...
