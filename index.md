@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Merry Christmas
+title: Marcy Minchin
 tagline:
 ---
 {% include JB/setup %}
 
-<div markdown="1" align="center">[Merry Christmas](http://marcyminchin.com/merry-christmas)!</div>
-
+# Marcy Minchin
 
