@@ -43,6 +43,6 @@ You could:
    * <http://toasterdog.com/personalpage/> <!-- http://lifehacker.com/5636983/how-to-make-and-host-your-own-custom-personal-landing-page -->
  * what ever else you can dream of!
  
-But wait, [there's more](http://minchin.ca/marcy/theres-more)!
+But wait, [there's more](http://marcyminchin.com/theres-more)!
 
 
